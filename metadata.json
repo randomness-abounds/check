@@ -1,0 +1,7 @@
+{
+  "name": "Dragon Haven",
+  "description": "A cozy, gamified focus companion for ADHD brains. Raise dragons by completing focus sessions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
